@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasicTableView/Classes/BasicTableViewController.swift"
+            timestampString = "583189727.222692"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Any&gt;) -&gt; () in BasicTableView.BasicTableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BasicTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidthorn/Desktop/BasicTableView/BasicTableView/Classes/BasicTableViewController.swift"
+                  timestampString = "583189213.436805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Array&lt;Any&gt;) -&gt; () in BasicTableView.BasicTableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BasicTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidthorn/Desktop/BasicTableView/BasicTableView/Classes/BasicTableViewController.swift"
+                  timestampString = "583189213.438679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
